@@ -2,19 +2,27 @@ I am a senior data scientist at the Swiss Data Science Center since September 20
 
 **Fields of interest**: machine learning, statistical learning, dynamical systems, climate science
 
-### Publications
+## Publications
 
-#### Journals and book chapters:
+### Journals and book chapters:
 
-    E. Szekely, D. Giannakis. An information-geometric approach for feature extraction in dynamical systems. In preparation.
-    R. Alexander, Z. Zhao, E. Szekely, D. Giannakis (2017). Kernel analog forecasting of tropical intraseasonal oscillations. Journal of the Atmospheric Sciences, 74, 1321-1342
-    E. Szekely, D. Giannakis, A. J. Majda (2016). Initiation and termination of intraseasonal oscillations in nonlinear Laplacian spectral analysis-based indices. Mathematics of Climate and Weather Forecasting, Special issue on Stochasticity and Organization of Tropical Convection, 2, 1-25
-    E. Szekely, D. Giannakis, A. J. Majda (2016). Extraction and predictability of coherent intraseasonal signals in infrared brightness temperature data. Climate Dynamics, Springer, 46(5), 1473-1502
-    E. Szekely, D. Giannakis, A. J. Majda (2015). Kernel and information-theoretic methods for the extraction and predictability of organized tropical convection. Machine Learning and Data Mining Approaches to Climate Science, Springer, 147-159
-    E. Szekely, A. Sallaberry, F. Zaidi, P. Poncelet (2015). A graph-based method for detecting rare events: Identifying pathologic cells. IEEE Computer Graphics and Applications, 35(3), 65-73
-    E. Szekely, E. Bruno, S. Marchand-Maillet (2011). Unsupervised quadratic discriminant embeddings using Gaussian mixture models. In Communications in Computer and Information Science, Vol. 128, Knowledge Discovery, Knowledge Engineering and Knowledge Management, Springer-Verlag, 128, 107-120
-    S. Marchand-Maillet, D. Morrison, E. Szekely, J. Kludas, M. von Wyl, E. Bruno (2011). Mining Networked Media Collections, Springer, 6535, 1-11
-    S. Marchand-Maillet, D. Morrison, E. Szekely, E. Bruno (2010). Interactive representations of multimodal databases. In J. -P. Thiran, H. Bourlard and F. Marques (Eds.), Academic Press, 279-307
+E. Szekely, D. Giannakis. An information-geometric approach for feature extraction in dynamical systems. In preparation.
+    
+R. Alexander, Z. Zhao, E. Szekely, D. Giannakis (2017). Kernel analog forecasting of tropical intraseasonal oscillations. Journal of the Atmospheric Sciences, 74, 1321-1342
+    
+E. Szekely, D. Giannakis, A. J. Majda (2016). Initiation and termination of intraseasonal oscillations in nonlinear Laplacian spectral analysis-based indices. Mathematics of Climate and Weather Forecasting, Special issue on Stochasticity and Organization of Tropical Convection, 2, 1-25
+    
+E. Szekely, D. Giannakis, A. J. Majda (2016). Extraction and predictability of coherent intraseasonal signals in infrared brightness temperature data. Climate Dynamics, Springer, 46(5), 1473-1502
+
+E. Szekely, D. Giannakis, A. J. Majda (2015). Kernel and information-theoretic methods for the extraction and predictability of organized tropical convection. Machine Learning and Data Mining Approaches to Climate Science, Springer, 147-159
+    
+E. Szekely, A. Sallaberry, F. Zaidi, P. Poncelet (2015). A graph-based method for detecting rare events: Identifying pathologic cells. IEEE Computer Graphics and Applications, 35(3), 65-73
+    
+E. Szekely, E. Bruno, S. Marchand-Maillet (2011). Unsupervised quadratic discriminant embeddings using Gaussian mixture models. In Communications in Computer and Information Science, Vol. 128, Knowledge Discovery, Knowledge Engineering and Knowledge Management, Springer-Verlag, 128, 107-120
+    
+S. Marchand-Maillet, D. Morrison, E. Szekely, J. Kludas, M. von Wyl, E. Bruno (2011). Mining Networked Media Collections, Springer, 6535, 1-11
+    
+S. Marchand-Maillet, D. Morrison, E. Szekely, E. Bruno (2010). Interactive representations of multimodal databases. In J. -P. Thiran, H. Bourlard and F. Marques (Eds.), Academic Press, 279-307
 
 #### Conferences and workshops:
 
