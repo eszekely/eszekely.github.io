@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+## Eniko Szekely
 
-You can use the [editor on GitHub](https://github.com/eszekely/eszekely.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a senior data scientist at the Swiss Data Science Center since September 2017. Previously, I was a postdoctoral researcher at the Courant Institute of Mathematical Sciences, New York University, working on machine learning for dynamical systems and climate science. I obtained my PhD in Computer Science from the University of Geneva, Switzerland (2011), the MSc from Telecom Bretagne, France (2006) and the BSc from the University of Timisoara, Romania (2005). Broadly I am interested in machine learning for nonlinear phenomena and high-dimensional data, and more recently I have been working on using machine learning and statistical learning approaches to advance our understanding of the climate. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eszekely/eszekely.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
