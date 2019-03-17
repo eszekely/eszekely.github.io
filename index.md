@@ -2,6 +2,12 @@ I am a senior data scientist at the Swiss Data Science Center since September 20
 
 **Fields of interest**: machine learning, statistical learning, dynamical systems, climate science
 
+## Contact
+
+Swiss Data Science Center, EPFL/ETHZ
+INN 218, CH-1015 Lausanne, Switzerland
+Email: _eniko.szekely (at) epfl.ch_
+
 ## Publications
 
 ### Journals and book chapters:
