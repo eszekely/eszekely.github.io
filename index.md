@@ -4,8 +4,8 @@ I am a senior data scientist at the Swiss Data Science Center since September 20
 
 ## Contact
 
-Swiss Data Science Center, EPFL/ETHZ
-INN 218, CH-1015 Lausanne, Switzerland
+Swiss Data Science Center, EPFL/ETHZ  
+INN 218, CH-1015 Lausanne, Switzerland  
 Email: _eniko.szekely (at) epfl.ch_
 
 ## Publications
