@@ -37,7 +37,7 @@ S. Marchand-Maillet, D. Morrison, E. Szekely, E. Bruno (2010). Interactive repre
     S. Marchand-Maillet, E. Szekely, E. Bruno. Optimizing Strategies for the Exploration of Social-Networks and Associated Data Collections. Proceedings of the International Workshop on Image Analysis for Multimedia Interactive Services (WIAMIS'09) - Special session on "People, Pixels, Peers: Interactive Content in Social Networks", London, UK (2009)
     E. Szekely, E. Bruno, S. Marchand-Maillet. Clustered multidimensional scaling for exploration in information retrieval. International Conference on the Theory of Information Retrieval (ICTIR'07), Budapest, Hungary (2007)
 
-#### Selected talks and seminars:
+#### Talks and seminars:
 
     Pattern extraction in dynamical systems using information geometry: application to tropical intraseasonal oscillations, September 22, 2017. Climate Informatics Workshop, Boulder, USA.
     Data-driven kernel methods for dynamical systems with application to atmosphere ocean science, July 5, 2017. Data Science and Environment Workshop, Brest, France.
@@ -53,5 +53,3 @@ S. Marchand-Maillet, D. Morrison, E. Szekely, E. Bruno (2010). Interactive repre
     Unsupervised discriminant embedding in cluster spaces, October 2009. KDIR, Madeira, Portugal
     Distance transformation for effective dimension reduction of high-dimensional data, September 2009. TopoLearn, Prague, Czech Republic
     Clustered multidimensional scaling for exploration in information retrieval, October 2007. ICTIR, Budapest, Hungary
-
-© 2017 Eniko Szekely
