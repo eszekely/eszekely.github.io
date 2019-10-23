@@ -13,7 +13,11 @@ Email: _eniko.szekely (at) epfl.ch_
 ### Journals and book chapters:
 
 E. Szekely, D. Giannakis. An information-geometric approach for feature extraction in dynamical systems. In preparation.
-    
+
+S. Sippel, N. Meinshausen, E. M. Fischer, E. Szekely, R. Knutti. Climate change detected from today’s global weather. In Review.
+
+R. Wüest et al. (2019). Macroecology in the age of big data - Where to go from here?, Journal of Biogeography, 1-12 
+     
 R. Alexander, Z. Zhao, E. Szekely, D. Giannakis (2017). Kernel analog forecasting of tropical intraseasonal oscillations. Journal of the Atmospheric Sciences, 74, 1321-1342
     
 E. Szekely, D. Giannakis, A. J. Majda (2016). Initiation and termination of intraseasonal oscillations in nonlinear Laplacian spectral analysis-based indices. Mathematics of Climate and Weather Forecasting, Special issue on Stochasticity and Organization of Tropical Convection, 2, 1-25
@@ -32,7 +36,9 @@ S. Marchand-Maillet, D. Morrison, E. Szekely, E. Bruno (2010). Interactive repre
 
 ### Conferences and workshops:
 
-E. Szekely, D. Giannakis. Pattern extraction in dynamical systems using information geometry: application to tropical intraseasonal oscillations. Climate Informatics Workshop, Boulder, USA (2017)
+E. Szekely, S. Sippel, R. Knutti, G. Obozinski, N. Meinshausen (2019). A direct approach to detection and attribution of climate change. To appear in Proceedings of the 9th International Workshop on Climate Informatics.
+
+E. Szekely, D. Giannakis (2017). Pattern extraction in dynamical systems using information geometry: application to tropical intraseasonal oscillations. Climate Informatics Workshop, Boulder, USA.
     
 J. Slawinska, E. Szekely, D. Giannakis (2017). Data-driven Koopman analysis of tropical climate space-time variability. Workshop on Mining Big Data in Climate and Environment, 17th SIAM International Conference on Data Mining (SDM), Houston, USA (2017)
     
@@ -53,6 +59,14 @@ S. Marchand-Maillet, E. Szekely, E. Bruno. Optimizing Strategies for the Explora
 E. Szekely, E. Bruno, S. Marchand-Maillet. Clustered multidimensional scaling for exploration in information retrieval. International Conference on the Theory of Information Retrieval (ICTIR'07), Budapest, Hungary (2007)
 
 ### Talks and seminars:
+
+A direct approach to detection and attribution of climate change, October 4, 2019. Climate Informatics Workshop, ENS, Paris, France
+
+Information-theoretic approaches to uncertainty quantification in climate science, August 29, 2019. Workshop on Uncertainty in data-driven environmental modelling, ETH, Zürich, Switzerland
+
+Data-driven detection and attribution, June 26, 2019. International Meeting on Statistical Climatology, Météo-France, Toulouse, France.
+
+Data-driven kernel methods for dynamical systems: application to atmosphere ocean science, February 11, 2019. Symposium on machine learning and dynamical systems, London, UK.
 
 Pattern extraction in dynamical systems using information geometry: application to tropical intraseasonal oscillations, September 22, 2017. Climate Informatics Workshop, Boulder, USA.
     
