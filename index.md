@@ -16,27 +16,25 @@ Email: _eniko.szekely (at) epfl.ch_
 
 ### Journals and book chapters:
 
-E. Szekely, D. Giannakis. An information-geometric approach for feature extraction in dynamical systems. In preparation.
+S. Sippel, N. Meinshausen, E. M. Fischer, E. Szekely, R. Knutti (2020). Climate change now detectable from any single day of weather at global scale. *Nature Climate Change*, **10**, 35-41, [doi:10.1038/s41558-019-0666-7](https://www.nature.com/articles/s41558-019-0666-7)
 
-S. Sippel, N. Meinshausen, E. M. Fischer, E. Szekely, R. Knutti. Climate change detected from today’s global weather. In Review.
-
-R. Wüest et al. (2019). Macroecology in the age of big data - Where to go from here?, Journal of Biogeography, 1-12 
+R. Wüest et al. (2019). Macroecology in the age of big data - Where to go from here?. *Journal of Biogeography*, 1-12 
      
-R. Alexander, Z. Zhao, E. Szekely, D. Giannakis (2017). Kernel analog forecasting of tropical intraseasonal oscillations. Journal of the Atmospheric Sciences, 74, 1321-1342
+R. Alexander, Z. Zhao, E. Szekely, D. Giannakis (2017). Kernel analog forecasting of tropical intraseasonal oscillations. *Journal of the Atmospheric Sciences*, **74**, 1321-1342
     
-E. Szekely, D. Giannakis, A. J. Majda (2016). Initiation and termination of intraseasonal oscillations in nonlinear Laplacian spectral analysis-based indices. Mathematics of Climate and Weather Forecasting, Special issue on Stochasticity and Organization of Tropical Convection, 2, 1-25
+E. Szekely, D. Giannakis, A. J. Majda (2016). Initiation and termination of intraseasonal oscillations in nonlinear Laplacian spectral analysis-based indices. *Mathematics of Climate and Weather Forecasting, Special issue on Stochasticity and Organization of Tropical Convection*, **2**, 1-25
     
-E. Szekely, D. Giannakis, A. J. Majda (2016). Extraction and predictability of coherent intraseasonal signals in infrared brightness temperature data. Climate Dynamics, Springer, 46(5), 1473-1502
+E. Szekely, D. Giannakis, A. J. Majda (2016). Extraction and predictability of coherent intraseasonal signals in infrared brightness temperature data. *Climate Dynamics, Springer*, **46(5)**, 1473-1502
 
-E. Szekely, D. Giannakis, A. J. Majda (2015). Kernel and information-theoretic methods for the extraction and predictability of organized tropical convection. Machine Learning and Data Mining Approaches to Climate Science, Springer, 147-159
+E. Szekely, D. Giannakis, A. J. Majda (2015). Kernel and information-theoretic methods for the extraction and predictability of organized tropical convection. *Machine Learning and Data Mining Approaches to Climate Science, Springer*, 147-159
     
-E. Szekely, A. Sallaberry, F. Zaidi, P. Poncelet (2015). A graph-based method for detecting rare events: Identifying pathologic cells. IEEE Computer Graphics and Applications, 35(3), 65-73
+E. Szekely, A. Sallaberry, F. Zaidi, P. Poncelet (2015). A graph-based method for detecting rare events: Identifying pathologic cells. *IEEE Computer Graphics and Applications*, **35(3)**, 65-73
     
-E. Szekely, E. Bruno, S. Marchand-Maillet (2011). Unsupervised quadratic discriminant embeddings using Gaussian mixture models. In Communications in Computer and Information Science, Vol. 128, Knowledge Discovery, Knowledge Engineering and Knowledge Management, Springer-Verlag, 128, 107-120
+E. Szekely, E. Bruno, S. Marchand-Maillet (2011). Unsupervised quadratic discriminant embeddings using Gaussian mixture models. *In Communications in Computer and Information Science, Vol. 128, Knowledge Discovery, Knowledge Engineering and Knowledge Management, Springer-Verlag*, **128**, 107-120
     
-S. Marchand-Maillet, D. Morrison, E. Szekely, J. Kludas, M. von Wyl, E. Bruno (2011). Mining Networked Media Collections, Springer, 6535, 1-11
+S. Marchand-Maillet, D. Morrison, E. Szekely, J. Kludas, M. von Wyl, E. Bruno (2011). *Mining Networked Media Collections, Springer*, 6535, 1-11
     
-S. Marchand-Maillet, D. Morrison, E. Szekely, E. Bruno (2010). Interactive representations of multimodal databases. In J. -P. Thiran, H. Bourlard and F. Marques (Eds.), Academic Press, 279-307
+S. Marchand-Maillet, D. Morrison, E. Szekely, E. Bruno (2010). Interactive representations of multimodal databases. *In J. -P. Thiran, H. Bourlard and F. Marques (Eds.), Academic Press*, 279-307
 
 ### Conferences and workshops:
 
