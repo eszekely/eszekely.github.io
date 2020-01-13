@@ -38,7 +38,7 @@ S. Marchand-Maillet, D. Morrison, E. Szekely, E. Bruno (2010). Interactive repre
 
 ### Conferences and workshops:
 
-E. Szekely, S. Sippel, R. Knutti, G. Obozinski, N. Meinshausen (2019). A direct approach to detection and attribution of climate change. To appear in Proceedings of the 9th International Workshop on Climate Informatics.
+E. Szekely, S. Sippel, R. Knutti, G. Obozinski, N. Meinshausen (2019). A direct approach to detection and attribution of climate change. Proceedings of the 9th International Workshop on Climate Informatics: CI2019 (No. NCAR/TN-561+PROC), 119-124, [doi:10.5065/y82j-f154](http://dx.doi.org/10.5065/y82j-f154)
 
 E. Szekely, D. Giannakis (2017). Pattern extraction in dynamical systems using information geometry: application to tropical intraseasonal oscillations. Climate Informatics Workshop, Boulder, USA.
     
