@@ -18,7 +18,7 @@ Email: _eniko.szekely (at) epfl.ch_
 
 S. Sippel, N. Meinshausen, E. M. Fischer, E. Szekely, R. Knutti (2020). Climate change now detectable from any single day of weather at global scale. *Nature Climate Change*, **10**, 35-41, [doi:10.1038/s41558-019-0666-7](https://www.nature.com/articles/s41558-019-0666-7). See also [News & Views](https://www.nature.com/articles/s41558-019-0670-y)
 
-R. Wüest et al. (2019). Macroecology in the age of big data - Where to go from here?. *Journal of Biogeography*, 1-12 
+R. Wüest et al. (2019). Macroecology in the age of big data - Where to go from here? *Journal of Biogeography*, 1-12, [doi.org/10.1111/jbi.13633](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13633) 
      
 R. Alexander, Z. Zhao, E. Szekely, D. Giannakis (2017). Kernel analog forecasting of tropical intraseasonal oscillations. *Journal of the Atmospheric Sciences*, **74**, 1321-1342, [doi.org/10.1175/JAS-D-16-0147.1](https://journals.ametsoc.org/doi/full/10.1175/JAS-D-16-0147.1)
     
