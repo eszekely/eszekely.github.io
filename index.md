@@ -16,7 +16,7 @@ Email: _eniko.szekely (at) epfl.ch_
 
 ### Journals and book chapters:
 
-S. Sippel, N. Meinshausen, E. M. Fischer, E. Szekely, R. Knutti (2020). Climate change now detectable from any single day of weather at global scale. *Nature Climate Change*, **10**, 35-41, [doi:10.1038/s41558-019-0666-7](https://www.nature.com/articles/s41558-019-0666-7)
+S. Sippel, N. Meinshausen, E. M. Fischer, E. Szekely, R. Knutti (2020). Climate change now detectable from any single day of weather at global scale. *Nature Climate Change*, **10**, 35-41, [doi:10.1038/s41558-019-0666-7](https://www.nature.com/articles/s41558-019-0666-7) See also [News & Views] (https://www.nature.com/articles/s41558-019-0670-y)
 
 R. Wüest et al. (2019). Macroecology in the age of big data - Where to go from here?. *Journal of Biogeography*, 1-12 
      
@@ -38,27 +38,27 @@ S. Marchand-Maillet, D. Morrison, E. Szekely, E. Bruno (2010). Interactive repre
 
 ### Conferences and workshops:
 
-E. Szekely, S. Sippel, R. Knutti, G. Obozinski, N. Meinshausen (2019). A direct approach to detection and attribution of climate change. Proceedings of the 9th International Workshop on Climate Informatics: CI2019 (No. NCAR/TN-561+PROC), 119-124, [doi:10.5065/y82j-f154](http://dx.doi.org/10.5065/y82j-f154)
+E. Szekely, S. Sippel, R. Knutti, G. Obozinski, N. Meinshausen (2019). A direct approach to detection and attribution of climate change. *Proceedings of the 9th International Workshop on Climate Informatics: CI2019 (No. NCAR/TN-561+PROC)*, 119-124, [doi:10.5065/y82j-f154](http://dx.doi.org/10.5065/y82j-f154)
 
-E. Szekely, D. Giannakis (2017). Pattern extraction in dynamical systems using information geometry: application to tropical intraseasonal oscillations. Climate Informatics Workshop, Boulder, USA.
+E. Szekely, D. Giannakis (2017). Pattern extraction in dynamical systems using information geometry: application to tropical intraseasonal oscillations. *Climate Informatics Workshop*, Boulder, USA.
     
-J. Slawinska, E. Szekely, D. Giannakis (2017). Data-driven Koopman analysis of tropical climate space-time variability. Workshop on Mining Big Data in Climate and Environment, 17th SIAM International Conference on Data Mining (SDM), Houston, USA (2017)
+J. Slawinska, E. Szekely, D. Giannakis (2017). Data-driven Koopman analysis of tropical climate space-time variability. *Workshop on Mining Big Data in Climate and Environment, 17th SIAM International Conference on Data Mining (SDM)*, Houston, USA (2017)
     
-E. Szekely, D. Giannakis, A. J. Majda. Nonlinear Madden-Julian oscillation indices using kernel methods. Proceedings of the Fifth International Workshop on Climate Informatics: CI 2015. J. G. Dy, J. Emile-Geay, V. Lakshmanan, Y. Liu (Eds.) (2015)
+E. Szekely, D. Giannakis, A. J. Majda. Nonlinear Madden-Julian oscillation indices using kernel methods. *Proceedings of the Fifth International Workshop on Climate Informatics: CI 2015. J. G. Dy, J. Emile-Geay, V. Lakshmanan, Y. Liu (Eds.)* (2015)
     
-E. Szekely, D. Giannakis, A. J. Majda. Extraction and predictability of coherent intraseasonal signals in infrared brightness temperature data. Climate Informatics Workshop, Boulder, USA (2014)
+E. Szekely, D. Giannakis, A. J. Majda. Extraction and predictability of coherent intraseasonal signals in infrared brightness temperature data. *Climate Informatics Workshop*, Boulder, USA (2014)
     
-E. Szekely, P. Poncelet, F. Masseglia, M. Teisseire, R. Cezar. A density-based backward approach to isolate rare events in large-scale applications. In Proceedings of the 16th International Conference on Discovery Science, Singapore, Republic of Singapore, 8140, pp. 249-264 (2013)
+E. Szekely, P. Poncelet, F. Masseglia, M. Teisseire, R. Cezar. A density-based backward approach to isolate rare events in large-scale applications. *Proceedings of the 16th International Conference on Discovery Science, Singapore, Republic of Singapore*, 8140, pp. 249-264 (2013)
     
-E. Szekely, E. Bruno, S. Marchand-Maillet. High-dimensional multimodal distribution embedding. Workshop on Visual Analytics and Knowledge Discovery (VAKD'10) at the IEEE International Conference on Data Mining (ICDM), Sydney, Australia, pp. 434-441 (2010)
+E. Szekely, E. Bruno, S. Marchand-Maillet. High-dimensional multimodal distribution embedding. *Workshop on Visual Analytics and Knowledge Discovery (VAKD'10) at the IEEE International Conference on Data Mining (ICDM), Sydney, Australia*, pp. 434-441 (2010)
     
-E. Szekely, E. Bruno, S. Marchand-Maillet. Distance transformation for effective dimension reduction of high-dimensional data. International Workshop on Topological Learning, Prague, Czech Republic (2009)
+E. Szekely, E. Bruno, S. Marchand-Maillet. Distance transformation for effective dimension reduction of high-dimensional data. *International Workshop on Topological Learning, Prague, Czech Republic* (2009)
     
-E. Szekely, E. Bruno, S. Marchand-Maillet. Unsupervised discriminant embedding in cluster spaces. International Conference on Knowledge Discovery and Information Retrieval (KDIR'09), Madeira, Portugal (2009)
+E. Szekely, E. Bruno, S. Marchand-Maillet. Unsupervised discriminant embedding in cluster spaces. *International Conference on Knowledge Discovery and Information Retrieval (KDIR'09), Madeira, Portugal* (2009)
     
-S. Marchand-Maillet, E. Szekely, E. Bruno. Optimizing Strategies for the Exploration of Social-Networks and Associated Data Collections. Proceedings of the International Workshop on Image Analysis for Multimedia Interactive Services (WIAMIS'09) - Special session on "People, Pixels, Peers: Interactive Content in Social Networks", London, UK (2009)
+S. Marchand-Maillet, E. Szekely, E. Bruno. Optimizing Strategies for the Exploration of Social-Networks and Associated Data Collections. *Proceedings of the International Workshop on Image Analysis for Multimedia Interactive Services (WIAMIS'09) - Special session on "People, Pixels, Peers: Interactive Content in Social Networks", London, UK* (2009)
     
-E. Szekely, E. Bruno, S. Marchand-Maillet. Clustered multidimensional scaling for exploration in information retrieval. International Conference on the Theory of Information Retrieval (ICTIR'07), Budapest, Hungary (2007)
+E. Szekely, E. Bruno, S. Marchand-Maillet. Clustered multidimensional scaling for exploration in information retrieval. *International Conference on the Theory of Information Retrieval (ICTIR'07), Budapest, Hungary* (2007)
 
 ### Talks and seminars:
 
