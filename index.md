@@ -16,15 +16,15 @@ Email: _eniko.szekely (at) epfl.ch_
 
 ### Journals and book chapters:
 
-S. Sippel, N. Meinshausen, E. M. Fischer, E. Szekely, R. Knutti (2020). Climate change now detectable from any single day of weather at global scale. *Nature Climate Change*, **10**, 35-41, [doi:10.1038/s41558-019-0666-7](https://www.nature.com/articles/s41558-019-0666-7) See also [News & Views] (https://www.nature.com/articles/s41558-019-0670-y)
+S. Sippel, N. Meinshausen, E. M. Fischer, E. Szekely, R. Knutti (2020). Climate change now detectable from any single day of weather at global scale. *Nature Climate Change*, **10**, 35-41, [doi:10.1038/s41558-019-0666-7](https://www.nature.com/articles/s41558-019-0666-7). See also [News & Views](https://www.nature.com/articles/s41558-019-0670-y)
 
 R. Wüest et al. (2019). Macroecology in the age of big data - Where to go from here?. *Journal of Biogeography*, 1-12 
      
-R. Alexander, Z. Zhao, E. Szekely, D. Giannakis (2017). Kernel analog forecasting of tropical intraseasonal oscillations. *Journal of the Atmospheric Sciences*, **74**, 1321-1342
+R. Alexander, Z. Zhao, E. Szekely, D. Giannakis (2017). Kernel analog forecasting of tropical intraseasonal oscillations. *Journal of the Atmospheric Sciences*, **74**, 1321-1342, [doi.org/10.1175/JAS-D-16-0147.1](https://journals.ametsoc.org/doi/full/10.1175/JAS-D-16-0147.1)
     
-E. Szekely, D. Giannakis, A. J. Majda (2016). Initiation and termination of intraseasonal oscillations in nonlinear Laplacian spectral analysis-based indices. *Mathematics of Climate and Weather Forecasting, Special issue on Stochasticity and Organization of Tropical Convection*, **2**, 1-25
+E. Szekely, D. Giannakis, A. J. Majda (2016). Initiation and termination of intraseasonal oscillations in nonlinear Laplacian spectral analysis-based indices. *Mathematics of Climate and Weather Forecasting, Special issue on Stochasticity and Organization of Tropical Convection*, **2**, 1-25, [doi.org/10.1515/mcwf-2016-0001](https://www.degruyter.com/view/j/mcwf.2016.2.issue-1/mcwf-2016-0001/mcwf-2016-0001.xml)
     
-E. Szekely, D. Giannakis, A. J. Majda (2016). Extraction and predictability of coherent intraseasonal signals in infrared brightness temperature data. *Climate Dynamics, Springer*, **46(5)**, 1473-1502
+E. Szekely, D. Giannakis, A. J. Majda (2016). Extraction and predictability of coherent intraseasonal signals in infrared brightness temperature data. *Climate Dynamics, Springer*, **46(5)**, 1473-1502, [doi.org/10.1007/s00382-015-2658-2] (https://link.springer.com/article/10.1007/s00382-015-2658-2)
 
 E. Szekely, D. Giannakis, A. J. Majda (2015). Kernel and information-theoretic methods for the extraction and predictability of organized tropical convection. *Machine Learning and Data Mining Approaches to Climate Science, Springer*, 147-159
     
