@@ -21,11 +21,11 @@ S. Sippel, N. Meinshausen, E. M. Fischer, E. Szekely, R. Knutti (2020). Climate 
 R. Wüest et al. (2019). Macroecology in the age of big data - Where to go from here? *Journal of Biogeography*, 1-12, [doi.org/10.1111/jbi.13633](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13633) 
      
 R. Alexander, Z. Zhao, E. Szekely, D. Giannakis (2017). Kernel analog forecasting of tropical intraseasonal oscillations. *Journal of the Atmospheric Sciences*, **74**, 1321-1342, [doi.org/10.1175/JAS-D-16-0147.1](https://journals.ametsoc.org/doi/full/10.1175/JAS-D-16-0147.1)
+
+E. Szekely, D. Giannakis, A. J. Majda (2016). Extraction and predictability of coherent intraseasonal signals in infrared brightness temperature data. *Climate Dynamics, Springer*, **46(5)**, 1473-1502, [doi.org/10.1007/s00382-015-2658-2](https://link.springer.com/article/10.1007/s00382-015-2658-2)
     
 E. Szekely, D. Giannakis, A. J. Majda (2016). Initiation and termination of intraseasonal oscillations in nonlinear Laplacian spectral analysis-based indices. *Mathematics of Climate and Weather Forecasting, Special issue on Stochasticity and Organization of Tropical Convection*, **2**, 1-25, [doi.org/10.1515/mcwf-2016-0001](https://www.degruyter.com/view/j/mcwf.2016.2.issue-1/mcwf-2016-0001/mcwf-2016-0001.xml)
     
-E. Szekely, D. Giannakis, A. J. Majda (2016). Extraction and predictability of coherent intraseasonal signals in infrared brightness temperature data. *Climate Dynamics, Springer*, **46(5)**, 1473-1502, [doi.org/10.1007/s00382-015-2658-2](https://link.springer.com/article/10.1007/s00382-015-2658-2)
-
 E. Szekely, D. Giannakis, A. J. Majda (2015). Kernel and information-theoretic methods for the extraction and predictability of organized tropical convection. *Machine Learning and Data Mining Approaches to Climate Science, Springer*, 147-159
     
 E. Szekely, A. Sallaberry, F. Zaidi, P. Poncelet (2015). A graph-based method for detecting rare events: Identifying pathologic cells. *IEEE Computer Graphics and Applications*, **35(3)**, 65-73
