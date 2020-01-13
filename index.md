@@ -24,7 +24,7 @@ R. Alexander, Z. Zhao, E. Szekely, D. Giannakis (2017). Kernel analog forecastin
     
 E. Szekely, D. Giannakis, A. J. Majda (2016). Initiation and termination of intraseasonal oscillations in nonlinear Laplacian spectral analysis-based indices. *Mathematics of Climate and Weather Forecasting, Special issue on Stochasticity and Organization of Tropical Convection*, **2**, 1-25, [doi.org/10.1515/mcwf-2016-0001](https://www.degruyter.com/view/j/mcwf.2016.2.issue-1/mcwf-2016-0001/mcwf-2016-0001.xml)
     
-E. Szekely, D. Giannakis, A. J. Majda (2016). Extraction and predictability of coherent intraseasonal signals in infrared brightness temperature data. *Climate Dynamics, Springer*, **46(5)**, 1473-1502, [doi.org/10.1007/s00382-015-2658-2] (https://link.springer.com/article/10.1007/s00382-015-2658-2)
+E. Szekely, D. Giannakis, A. J. Majda (2016). Extraction and predictability of coherent intraseasonal signals in infrared brightness temperature data. *Climate Dynamics, Springer*, **46(5)**, 1473-1502, [doi.org/10.1007/s00382-015-2658-2](https://link.springer.com/article/10.1007/s00382-015-2658-2)
 
 E. Szekely, D. Giannakis, A. J. Majda (2015). Kernel and information-theoretic methods for the extraction and predictability of organized tropical convection. *Machine Learning and Data Mining Approaches to Climate Science, Springer*, 147-159
     
