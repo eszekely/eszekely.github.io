@@ -14,6 +14,10 @@ Email: _eniko.szekely (at) epfl.ch_
 
 ## Publications
 
+### Pre-prints
+
+S. Das, D. Giannakis, E. Székely (2020). An information-geometric approach to feature extraction and moment reconstruction in dynamical systems. [arXiv:2004.02172](https://arxiv.org/abs/2004.02172)
+
 ### Journals and book chapters:
 
 S. Sippel, N. Meinshausen, E. M. Fischer, E. Szekely, R. Knutti (2020). Climate change now detectable from any single day of weather at global scale. *Nature Climate Change*, **10**, 35-41, [doi:10.1038/s41558-019-0666-7](https://www.nature.com/articles/s41558-019-0666-7). See also [News & Views](https://www.nature.com/articles/s41558-019-0670-y)
