@@ -2,9 +2,9 @@ I am a senior data scientist at the Swiss Data Science Center since September 20
 
 **Fields of interest**: machine learning, statistical learning, dynamical systems, causality, climate science
 
-**Activities**: [Climate Informatics Workshop](https://ci2020.web.ox.ac.uk/) (Steering committee) 
+**Activities**: [Climate Informatics Conference](https://ci2020.web.ox.ac.uk/) (Steering committee) 
 
-**Blog**: [Detection and attribution of climate change](https://datascience.ch/climate-is-what-you-expect-weather-is-what-you-get/)
+**Short read on current work**: [Detection and attribution of climate change](https://datascience.ch/climate-is-what-you-expect-weather-is-what-you-get/)
 
 ## Contact
 
