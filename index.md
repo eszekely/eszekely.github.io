@@ -1,4 +1,4 @@
-I am a senior data scientist at the Swiss Data Science Center (EPFL and ETH Zürich). Previously, I was a postdoctoral researcher at the Courant Institute of Mathematical Sciences, New York University, working on machine learning for dynamical systems and climate science. Broadly I am interested in machine learning for nonlinear phenomena and high-dimensional data, and more recently I have been working on using machine learning and statistical learning approaches to advance our understanding of the climate. 
+I am a senior data scientist at the Swiss Data Science Center, EPFL and ETH Zürich. Previously, I was a postdoctoral researcher at the Courant Institute of Mathematical Sciences, New York University, working on machine learning for dynamical systems and climate science. Broadly I am interested in machine learning for nonlinear phenomena, and more recently I have been working on using statistical learning and machine learning approaches to advance our understanding of the climate. 
 
 **Fields of interest**: machine learning, statistical learning, dynamical systems, causality, climate science
 
