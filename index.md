@@ -16,7 +16,7 @@ Email: _eniko.szekely (at) epfl.ch_
 
 ### Pre-prints
 
-Z. Wu, B. Jiménez-Esteve, R. de Fondeville, E. Székely, G. Obozinski, W.T. Ball, D. Domeisen. Extended-range predictability of sudden stratospheric warming events suggested by mode decomposition. *Weather and Climate Dynamics (submitted)*
+Z. Wu, B. Jiménez-Esteve, R. de Fondeville, E. Székely, G. Obozinski, W.T. Ball, D. Domeisen. Extended-range predictability of sudden stratospheric warming events suggested by mode decomposition. *Weather and Climate Dynamics* (submitted)
 
 S. Das, D. Giannakis, E. Székely. An information-geometric approach to feature extraction and moment reconstruction in dynamical systems. [arXiv:2004.02172](https://arxiv.org/abs/2004.02172)
 
