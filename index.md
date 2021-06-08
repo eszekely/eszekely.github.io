@@ -24,7 +24,7 @@ S. Das, D. Giannakis, E. Székely. An information-geometric approach to feature 
 
 ### Journals and book chapters
 
-S. Sippel, N. Meinshausen, E. M. Fischer, E. Székely, R. Knutti (2020). Climate change now detectable from any single day of weather at global scale. *Nature Climate Change*, **10**, 35-41, [doi:10.1038/s41558-019-0666-7](https://www.nature.com/articles/s41558-019-0666-7). See also [News & Views](https://www.nature.com/articles/s41558-019-0670-y)
+S. Sippel, N. Meinshausen, E. M. Fischer, E. Székely, R. Knutti (2020). Climate change now detectable from any single day of weather at global scale. *Nature Climate Change*, **10**, 35-41, [doi:10.1038/s41558-019-0666-7](https://www.nature.com/articles/s41558-019-0666-7). See also [News & Views](https://www.nature.com/articles/s41558-019-0670-y) and [10 years of Nature Climate Change](https://www.nature.com/articles/s41558-021-01019-4)
 
 R. Wüest et al. (2019). Macroecology in the age of big data - Where to go from here? *Journal of Biogeography*, 1-12, [doi.org/10.1111/jbi.13633](https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13633) 
      
