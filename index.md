@@ -20,7 +20,7 @@ S. Das, D. Giannakis, E. Székely. An information-geometric approach to feature 
 
 ### Journals and book chapters
 
-S. Sippel, N. Meinshausen, E. Székely, E. Fischer, A.G. Pendergrass, F. Lehner, R. Knutti (2021) Robust detection of forced warming in the presence of potentially large climate variability. *Science Advances* (Accepted).
+S. Sippel, N. Meinshausen, E. Székely, E. Fischer, A.G. Pendergrass, F. Lehner, R. Knutti (2021). Robust detection of forced warming in the presence of potentially large climate variability. *Science Advances* (Accepted).
 
 Z. Wu, B. Jiménez-Esteve, R. de Fondeville, E. Székely, G. Obozinski, W.T. Ball, D. Domeisen (2021). Emergence of representative signals for sudden stratospheric warmings beyond current predictable lead times.  *Weather and Climate Dynamics*, **2**, 841-865, [doi.org/10.5194/wcd-2-841-2021](https://doi.org/10.5194/wcd-2-841-2021)
 
