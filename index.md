@@ -52,7 +52,7 @@ E. Székely, S. Sippel, R. Knutti, G. Obozinski, N. Meinshausen. A direct approa
 
 E. Székely, D. Giannakis. Pattern extraction in dynamical systems using information geometry: application to tropical intraseasonal oscillations. *Climate Informatics Workshop*, Boulder, USA (2017)
     
-J. Slawinska, E. Székely, D. Giannakis (2017). Data-driven Koopman analysis of tropical climate space-time variability. *Workshop on Mining Big Data in Climate and Environment, 17th SIAM International Conference on Data Mining (SDM)*, Houston, USA (2017)
+J. Slawinska, E. Székely, D. Giannakis. Data-driven Koopman analysis of tropical climate space-time variability. *Workshop on Mining Big Data in Climate and Environment, 17th SIAM International Conference on Data Mining (SDM)*, Houston, USA (2017)
     
 E. Székely, D. Giannakis, A. J. Majda. Nonlinear Madden-Julian oscillation indices using kernel methods. *Proceedings of the Fifth International Workshop on Climate Informatics: CI 2015. J. G. Dy, J. Emile-Geay, V. Lakshmanan, Y. Liu (Eds.)* (2015)
     
