@@ -22,7 +22,7 @@ S. Das, D. Giannakis, E. Székely. An information-geometric approach to feature 
 
 J. Cortés-Andrés, G. Camps-Valls, S. Sippel, E. Székely, D. Sejdinovic, E. Diaz, A. Pérez-Suay, Z. Li, M. Mahecha, M. Reichstein (2022). Physics-aware nonparametric regression models for Earth data analysis. *Environmental Research Letters*, **17(5)**, [doi.org/10.1088/1748-9326/ac6762/pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ac6762/pdf)
 
-S. Sippel, N. Meinshausen, E. Székely, E. Fischer, A.G. Pendergrass, F. Lehner, R. Knutti (2021). Robust detection of forced warming in the presence of potentially large climate variability. *Science Advances*, **7(43)**, eabh4429, [doi/10.1126/sciadv.abh4429](https://www.science.org/doi/pdf/10.1126/sciadv.abh4429).
+S. Sippel, N. Meinshausen, E. Székely, E. Fischer, A.G. Pendergrass, F. Lehner, R. Knutti (2021). Robust detection of forced warming in the presence of potentially large climate variability. *Science Advances*, **7(43)**, eabh4429, [doi/10.1126/sciadv.abh4429](https://www.science.org/doi/pdf/10.1126/sciadv.abh4429)
 
 Z. Wu, B. Jiménez-Esteve, R. de Fondeville, E. Székely, G. Obozinski, W.T. Ball, D. Domeisen (2021). Emergence of representative signals for sudden stratospheric warmings beyond current predictable lead times.  *Weather and Climate Dynamics*, **2**, 841-865, [doi.org/10.5194/wcd-2-841-2021](https://doi.org/10.5194/wcd-2-841-2021)
 
@@ -48,9 +48,9 @@ S. Marchand-Maillet, D. Morrison, E. Székely, E. Bruno (2010). Interactive repr
 
 ### Conferences and workshops
 
-E. Székely, S. Sippel, R. Knutti, G. Obozinski, N. Meinshausen (2019). A direct approach to detection and attribution of climate change. *Proceedings of the 9th International Workshop on Climate Informatics: CI2019 (No. NCAR/TN-561+PROC)*, 119-124, [doi:10.5065/y82j-f154](http://dx.doi.org/10.5065/y82j-f154)
+E. Székely, S. Sippel, R. Knutti, G. Obozinski, N. Meinshausen. A direct approach to detection and attribution of climate change. *Proceedings of the 9th International Workshop on Climate Informatics: CI2019 (No. NCAR/TN-561+PROC)*, 119-124 (2019) [doi:10.5065/y82j-f154](http://dx.doi.org/10.5065/y82j-f154)
 
-E. Székely, D. Giannakis (2017). Pattern extraction in dynamical systems using information geometry: application to tropical intraseasonal oscillations. *Climate Informatics Workshop*, Boulder, USA.
+E. Székely, D. Giannakis. Pattern extraction in dynamical systems using information geometry: application to tropical intraseasonal oscillations. *Climate Informatics Workshop*, Boulder, USA (2017)
     
 J. Slawinska, E. Székely, D. Giannakis (2017). Data-driven Koopman analysis of tropical climate space-time variability. *Workshop on Mining Big Data in Climate and Environment, 17th SIAM International Conference on Data Mining (SDM)*, Houston, USA (2017)
     
@@ -72,6 +72,12 @@ E. Székely, E. Bruno, S. Marchand-Maillet. Clustered multidimensional scaling f
 
 ### Talks and seminars
 
+A direct and distributinally-robust approach to detection and attribution of climate change, June 23, 2022. AI4Science, Lausanne, Switzerland 
+	      
+How to combine domain knowledge with the capacity of machine learning for discovery?, August 21, 2021. Data Science in Climate and Climate Impact Research Workshop, ETH Zurich, Switzerland 
+
+A direct approach to detection and attribution of climate change, March 5, 2021. Women in Data Science, Zurich, Switzerland
+
 A direct approach to detection and attribution of climate change, January 27, 2020. AI & Climate Change track, Applied Machine Learning Days (AMLD), Lausanne, Switzerland
 
 A direct approach to detection and attribution of climate change, January 24, 2020. AI4Climate Seminar, Paris, France
@@ -80,15 +86,15 @@ A direct approach to detection and attribution of climate change, October 4, 201
 
 Information-theoretic approaches to uncertainty quantification in climate science, August 29, 2019. Workshop on Uncertainty in data-driven environmental modelling, ETH, Zürich, Switzerland
 
-Data-driven detection and attribution, June 26, 2019. International Meeting on Statistical Climatology, Météo-France, Toulouse, France.
+Data-driven detection and attribution, June 26, 2019. International Meeting on Statistical Climatology, Météo-France, Toulouse, France
 
-Data-driven kernel methods for dynamical systems: application to atmosphere ocean science, February 11, 2019. Symposium on machine learning and dynamical systems, London, UK.
+Data-driven kernel methods for dynamical systems: application to atmosphere ocean science, February 11, 2019. Symposium on machine learning and dynamical systems, London, UK
 
-Pattern extraction in dynamical systems using information geometry: application to tropical intraseasonal oscillations, September 22, 2017. Climate Informatics Workshop, Boulder, USA.
+Pattern extraction in dynamical systems using information geometry: application to tropical intraseasonal oscillations, September 22, 2017. Climate Informatics Workshop, Boulder, USA
     
-Data-driven kernel methods for dynamical systems with application to atmosphere ocean science, July 5, 2017. Data Science and Environment Workshop, Brest, France.
+Data-driven kernel methods for dynamical systems with application to atmosphere ocean science, July 5, 2017. Data Science and Environment Workshop, Brest, France
     
-Spatiotemporal patterns of organized tropical convection revealed through machine learning, September 27, 2016. National Oceanic and Atmospheric Administration (NOAA), Boulder, USA.
+Spatiotemporal patterns of organized tropical convection revealed through machine learning, September 27, 2016. National Oceanic and Atmospheric Administration (NOAA), Boulder, USA
     
 Nonlinear dimension reduction for high-dimensional data, May 20, 2016. Ecole Centrale de Lyon, Lyon, France
     
@@ -105,7 +111,8 @@ Quantifying predictability of the Madden-Julian oscillation using clustering and
 A density-based backward approach to isolate rare events in large-scale applications, October, 2013. Discovery Science, Singapore, Republic of Singapore
     
 High-dimensional multimodal distribution embedding, December 2010. ICDM, Sydney, Australia
-    Unsupervised discriminant embedding in cluster spaces, October 2009. KDIR, Madeira, Portugal
+
+Unsupervised discriminant embedding in cluster spaces, October 2009. KDIR, Madeira, Portugal
     
 Distance transformation for effective dimension reduction of high-dimensional data, September 2009. TopoLearn, Prague, Czech Republic
     
