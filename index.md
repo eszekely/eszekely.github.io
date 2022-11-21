@@ -16,9 +16,15 @@ Email: _eniko.szekely (at) epfl.ch_
 
 ### Pre-prints
 
+R. de Fondeville, Z. Wu, E. Székely, G. Obozinski, D.I.V. Domeisen. Improved extended-range prediction of persistent stratospheric perturbations using machine learning. *Submitted to Weather and Climate Dynamics*
+
+P2. E. Székely, S. Sippel, N. Meinshausen, G. Obozinski, R. Knutti. Robust detection and attribution of climate change under interventions. *In preparation*
+
 S. Das, D. Giannakis, E. Székely. An information-geometric approach to feature extraction and moment reconstruction in dynamical systems. [arXiv:2004.02172](https://arxiv.org/abs/2004.02172)
 
 ### Journals and book chapters
+
+Z. Wu, T. Beucler, E. Székely , W.T. Ball, D.I.V. Domeisen (2022). Modeling stratospheric polar vortex variation and identifying vortex extremes using explainable neural networks. *Environmental Data Science*, **1**, e17. [doi:10.1017/eds.2022.19](https://www.cambridge.org/core/journals/environmental-data-science/article/modeling-stratospheric-polar-vortex-variation-and-identifying-vortex-extremes-using-explainable-machine-learning/22E7AC22092AD3895D4612209A268ADB)
 
 J. Cortés-Andrés, G. Camps-Valls, S. Sippel, E. Székely, D. Sejdinovic, E. Diaz, A. Pérez-Suay, Z. Li, M. Mahecha, M. Reichstein (2022). Physics-aware nonparametric regression models for Earth data analysis. *Environmental Research Letters*, **17(5)**, [doi.org/10.1088/1748-9326/ac6762/pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ac6762/pdf)
 
