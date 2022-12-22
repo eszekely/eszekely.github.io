@@ -16,9 +16,9 @@ Email: _eniko.szekely (at) epfl.ch_
 
 ### Pre-prints
 
-R. de Fondeville, Z. Wu, E. Székely, G. Obozinski, D.I.V. Domeisen. Improved extended-range prediction of persistent stratospheric perturbations using machine learning. *Submitted to Weather and Climate Dynamics*, [preprints/wcd-2022-55](https://wcd.copernicus.org/preprints/wcd-2022-55/)
+E. Székely, S. Sippel, N. Meinshausen, G. Obozinski, R. Knutti. Robust detection and attribution of climate change under interventions. [arxiv:2212.04905](https://arxiv.org/abs/2212.04905)
 
-E. Székely, S. Sippel, N. Meinshausen, G. Obozinski, R. Knutti. Robust detection and attribution of climate change under interventions. *In preparation*
+R. de Fondeville, Z. Wu, E. Székely, G. Obozinski, D.I.V. Domeisen. Improved extended-range prediction of persistent stratospheric perturbations using machine learning. *Submitted to Weather and Climate Dynamics*, [preprints/wcd-2022-55](https://wcd.copernicus.org/preprints/wcd-2022-55/)
 
 S. Das, D. Giannakis, E. Székely. An information-geometric approach to feature extraction and moment reconstruction in dynamical systems. [arXiv:2004.02172](https://arxiv.org/abs/2004.02172)
 
