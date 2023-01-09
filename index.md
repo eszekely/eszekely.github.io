@@ -5,7 +5,6 @@ My work lies at the intersection of data science, machine learning and applied s
 **Activities**: [Climate Informatics Conference](https://ci2020.web.ox.ac.uk/) (Steering committee), [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) (Editor) 
 
 ## Contact
-
 Email: _szekely (dot) eni (at) gmail (dot) com_
 
 ## Publications
