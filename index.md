@@ -6,7 +6,7 @@ My work lies at the intersection of data science, machine learning and applied s
 
 ## Contact
 
-Email: _szekely (dot) eni (at) gmail (dot) ch_
+Email: _szekely (dot) eni (at) gmail (dot) com_
 
 ## Publications
 
