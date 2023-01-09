@@ -1,16 +1,12 @@
-I am a senior data scientist at the Swiss Data Science Center, EPFL and ETH Zürich. Previously, I was a postdoctoral researcher at the Courant Institute of Mathematical Sciences, New York University, working on machine learning for dynamical systems and climate science. Broadly I am interested in machine learning for nonlinear phenomena, and more recently I have been working on using statistical learning and machine learning approaches to advance our understanding of the climate. 
+My work lies at the intersection of data science, machine learning and applied sciences. From 2017 to 2022 I was a senior data scientist at the Swiss Data Science Center, EPFL and ETH Zürich. Previously, I was a postdoctoral researcher at the Courant Institute of Mathematical Sciences, New York University, working on machine learning for dynamical systems and climate science. Broadly I am interested in machine learning for nonlinear phenomena, and more recently I have been working on using statistical learning and machine learning approaches to advance our understanding of the climate. 
 
 **Fields of interest**: machine learning, statistical learning, dynamical systems, causality, climate science
 
 **Activities**: [Climate Informatics Conference](https://ci2020.web.ox.ac.uk/) (Steering committee), [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) (Editor) 
 
-**Short read on current work**: [Detection and attribution of climate change](https://datascience.ch/climate-is-what-you-expect-weather-is-what-you-get/)
-
 ## Contact
 
-Swiss Data Science Center, EPFL/ETHZ  
-INN 218, CH-1015 Lausanne, Switzerland  
-Email: _eniko.szekely (at) epfl.ch_
+Email: _szekely (dot) eni (at) gmail (dot) ch_
 
 ## Publications
 
