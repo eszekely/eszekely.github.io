@@ -1,6 +1,6 @@
-My work lies at the intersection of data science, machine learning and applied sciences. From 2017 to 2022 I was a senior data scientist at the Swiss Data Science Center, EPFL and ETH Zürich. Previously, I was a postdoctoral researcher at the Courant Institute of Mathematical Sciences, New York University, working on machine learning for dynamical systems and climate science. Broadly I am interested in machine learning for nonlinear phenomena, and more recently I have been working on using statistical learning and machine learning approaches to advance our understanding of the climate. 
+My work lies at the intersection of machine learning, AI, and applied sciences. Most recently, I worked on ML\%AI for patient classification, early disease diagnosis, and prognosis for rare and less rare diseases at Volv Global, an AI \& healthcare startup. From 2017 to 2022 I was a senior data scientist at the Swiss Data Science Center, a joint center between EPFL and ETH Zürich, where I worked on various machine learning problems. Previously, I was a postdoctoral researcher at the Courant Institute of Mathematical Sciences, New York University, working on machine learning for dynamical systems, time series, and climate science. 
 
-**Fields of interest**: machine learning, statistical learning, dynamical systems, causality, climate science
+**Fields of interest**: machine learning, AI, dynamical systems, causality, applied science
 
 **Activities**: [Climate Informatics Conference](https://ci2020.web.ox.ac.uk/) (Steering committee), [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) (Editor) 
 
@@ -13,11 +13,11 @@ Email: _szekely (dot) eni (at) gmail (dot) com_
 
 E. Székely, S. Sippel, N. Meinshausen, G. Obozinski, R. Knutti. Robust detection and attribution of climate change under interventions. [arxiv:2212.04905](https://arxiv.org/abs/2212.04905)
 
-R. de Fondeville, Z. Wu, E. Székely, G. Obozinski, D.I.V. Domeisen. Improved extended-range prediction of persistent stratospheric perturbations using machine learning. *Submitted to Weather and Climate Dynamics*, [preprints/wcd-2022-55](https://wcd.copernicus.org/preprints/wcd-2022-55/)
-
 S. Das, D. Giannakis, E. Székely. An information-geometric approach to feature extraction and moment reconstruction in dynamical systems. [arXiv:2004.02172](https://arxiv.org/abs/2004.02172)
 
 ### Journals and book chapters
+
+R. de Fondeville, Z. Wu, E. Székely, G. Obozinski, D.I.V. Domeisen (2023). Improved extended-range prediction of persistent stratospheric perturbations using machine learning. *Weather and Climate Dynamics*, **4(2)**, 287-307, [doi.org/10.5194/wcd-4-287-2023](https://wcd.copernicus.org/articles/4/287/2023/wcd-4-287-2023.html)
 
 Z. Wu, T. Beucler, E. Székely , W.T. Ball, D.I.V. Domeisen (2022). Modeling stratospheric polar vortex variation and identifying vortex extremes using explainable neural networks. *Environmental Data Science*, **1**, e17. [doi:10.1017/eds.2022.19](https://www.cambridge.org/core/journals/environmental-data-science/article/modeling-stratospheric-polar-vortex-variation-and-identifying-vortex-extremes-using-explainable-machine-learning/22E7AC22092AD3895D4612209A268ADB)
 
