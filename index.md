@@ -1,6 +1,6 @@
 My work lies at the intersection of machine learning, AI, and applied sciences. Recently, I worked on ML&AI for patient classification, early disease diagnosis and prognosis at Volv Global, an AI & healthcare startup. From 2017 to 2022 I was a senior data scientist at the Swiss Data Science Center, a joint center between EPFL and ETH Zürich, where I worked on various machine learning problems applied to climate science. Previously, I was a postdoctoral researcher at the Courant Institute of Mathematical Sciences, New York University, working on machine learning for dynamical systems, time series, and atmosphere ocean science. As a postdoctoral researcher at the University of Montpellier and INRIA I worked on anomaly detection in biomedical data with application to cancer and aneurysm detection. I obtained my PhD from the University of Geneva on machine learning and pattern recognition.
 
-**Fields of interest**: machine learning, AI, dynamical systems, causality, applied science
+**Fields of interest**: machine learning, AI, dynamical systems, causal inference, applied science
 
 **Activities**: [Climate Informatics Conference](https://ci2020.web.ox.ac.uk/) (Steering committee), [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) (Editor) 
 
