@@ -117,4 +117,4 @@ Unsupervised discriminant embedding in cluster spaces, October 2009. KDIR, Madei
     
 Distance transformation for effective dimension reduction of high-dimensional data, September 2009. TopoLearn, Prague, Czech Republic
     
-Clustered multidimensional scaling for exploration in information retrieval, October 2007. ICTIR, Budapest, Hungary
+% Clustered multidimensional scaling for exploration in information retrieval, October 2007. ICTIR, Budapest, Hungary
